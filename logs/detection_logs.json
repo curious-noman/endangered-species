@@ -100,5 +100,11 @@
         "class_name": "Beaver",
         "category": "LC(G5)",
         "confidence_score": 0.9338085651397705
+    },
+    {
+        "timestamp": "2025-03-13 19:49:22",
+        "class_name": "Vaquita",
+        "category": "EN(G1)",
+        "confidence_score": 0.9159166812896729
     }
 ]
